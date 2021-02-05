@@ -2,8 +2,10 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "Splash"
-    url: /splash/
+  # - title: "Splash"
+  #  url: /splash/
+  - title: "Writing"
+    url: /posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
