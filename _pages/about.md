@@ -11,4 +11,4 @@ I specialize in machine learning, large data analysis and digitalization and lik
 
 I currently live in Iceland with my partner and dog, spend my time hiking and running and working on side projects in the evenings.
 
-If you want to hear more about my projects, tell me about yours or just say hi then [drop me a line](mailto:sagaulfars@gmail.com)
+If you want to reach out to me then [drop me a line](mailto:sagaulfars@gmail.com)
