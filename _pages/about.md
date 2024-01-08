@@ -1,14 +1,12 @@
 ---
 title: "About"
-excerpt: "Who else."
+excerpt: "About me"
 sitemap: true
 permalink: /about/
 ---
 
-I'm an engineer who should probably have gone into computer science. 
+I like to examine the world through data to see how it reflects our perceptions. I love learning about how technology can provide better user experiences and am always looking to learn new things.
 
-I specialize in machine learning, large data analysis and digitalization and like to examine the world through data to see how it reflects our perceptions. I love learning about how technology can provide better user experiences and am always looking to learn new things.
-
-I currently live in Iceland with my partner and dog, spend my time hiking and running and working on side projects in the evenings.
+I live in Iceland with my partner, son and dog.
 
 If you want to reach out to me then [drop me a line](mailto:sagaulfars@gmail.com)
