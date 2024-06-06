@@ -1,5 +1,5 @@
 ---
-title: "Breytingar"
+title: "Lexíur síðustu mánaða"
 date: 2024-06-06
 permalink: /posts/breytingar
 ---
